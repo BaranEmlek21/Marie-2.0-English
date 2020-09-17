@@ -18,7 +18,6 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-
 Komutlar için /help
 
 Bu bot grub yönetim botudur
@@ -28,6 +27,15 @@ Yetki vermeniz gerekir aksi halde botu sürekli başlatmanız gerekir yetkisi yo
 Botun sahibi yani ben @Baran_X_T
 
 @mr_flymann a teşşekkürler
+
+
+
+
+
+
+
+
+
 
 
 
