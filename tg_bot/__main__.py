@@ -18,12 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Merhaba {} benim adım {} 
+Selam {}, benim adım {}!
 Komutlar için /help
 Bu bot grub yönetim botudur
 Yetki vermeniz gerekir aksi halde botu sürekli başlatmanız gerekir yetkisi yokken mesajlara iletişimi yoktur
-Botun sahibi yani ben kullanıcı adını yaz
-@mr_flymann a teşşekkürler
+Herşey için @mr_flymann a teşekkürler 
+bi sorun bulursanız yada öneriniz var ise sahibime iletin [sahibim](tg://user?id={}).
 """
 
 HELP_STRINGS = """
